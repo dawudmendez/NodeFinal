@@ -1,0 +1,19 @@
+{
+  "name": "trabajo_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ecommerce.js",
+  "scripts": {
+    "dev": "nodemon ecommerce.js"
+  },
+  "author": "Muhammad Dawud Mendez",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "express-unless": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.0",
+    "nodemon": "^2.0.12"
+  }
+}
